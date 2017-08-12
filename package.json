@@ -1,0 +1,15 @@
+{
+  "name": "eres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tape": "^4.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "timwis <tim@timwis.com>",
+  "license": "MIT"
+}
