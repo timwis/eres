@@ -1,7 +1,7 @@
 {
   "name": "eres",
   "version": "1.0.0",
-  "description": "",
+  "description": "Use async/await with `[err, result]` instead of try/catch.",
   "main": "index.js",
   "devDependencies": {
     "tape": "^4.8.0"
