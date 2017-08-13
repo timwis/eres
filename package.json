@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^4.8.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node test.js"
   },
